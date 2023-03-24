@@ -22,6 +22,5 @@ function onYouTubeIframeAPIReady() {
         event.target.mute() // 음소거
       }
     }
-
   });
 }
