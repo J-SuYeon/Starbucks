@@ -1,7 +1,7 @@
 # Starbucks
 
 ### 페이지 주소(링크)
-[Starbucks](https://deluxe-basbousa-029554.netlify.app)
+<a href="https://deluxe-basbousa-029554.netlify.app" target="_blank">Starbucks</a>
 - ##### 본 페이지는 HTML, CSS, JavaScript를 사용하여 작성되었으며, Netlify를 사용하여 배포합니다.  
 - ##### 또한, 본 페이지는 기존에 존재하던 스타벅스 홈페이지를 보고 구성요소를 따라 만든 클론 코딩 페이지입니다.
 - ##### 작업 일자: 2023-03-15 ~ 2023-03-24
